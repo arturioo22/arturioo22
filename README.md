@@ -41,9 +41,9 @@
   </p>
   
   <p><b>Планы развития:</b><br>
-  2024: Углубленное изучение Django и SQL<br>
-  2025: Начало работы в отрасли<br>
-  2026: Позиция Middle Python Developer</p>
+  2025: Углубленное изучение Django и SQL<br>
+  2025-2026: Начало работы в отрасли<br>
+  2026-2027: Позиция Middle Python Developer</p>
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling">
