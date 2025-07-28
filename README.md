@@ -33,13 +33,9 @@
 ```python
 def career_plan():
     targets = {
-        "2024": "Углубленное изучение Django и SQL", 
-        "2025": "Начало работы в отрасли программирования",
+        "2024": "Углубленное изучение Django и SQL",
+        "2025": "Начало работы в отрасли",
         "2026": "Позиция Middle Python Developer"
     }
     return targets
-<div align="center">
-https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
-
-✨ Я становлюсь профессиональным разработчиком
-<img src="https://readme-typing-svg.demol.app?font=Fira+Code&pause=1000&color=22D3F7&width=435&lines=Каждый+день+новый+skill;Пишу+чистый+код;Автоматизирую+рутину;Мечтаю+о+сложных+проектах" alt="Typing animation" /></div><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling"/> </p> ```
+<div align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"> <h3>✨ Я становлюсь профессиональным разработчиком</h3> <img src="https://readme-typing-svg.demol.app?font=Fira+Code&pause=1000&color=22D3F7&width=435&lines=Каждый+день+новый+skill;Пишу+чистый+код;Автоматизирую+рутину;Мечтаю+о+сложных+проектах" alt="Typing animation"></div><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling"> </p> ```
