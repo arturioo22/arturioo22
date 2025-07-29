@@ -1,5 +1,5 @@
 <h1 align="center">👋 Привет, я Артур</h1>
-<h3 align="center">🚀 Студент Яндекс Практикума из Старого Оскола</h3>
+<h3 align="center">🚀 Начинающий программист, студент Яндекс Практикума</h3>
 
 <p align="center">
   <a href="mailto:artur-fisunov@mail.ru"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
